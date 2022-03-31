@@ -20,6 +20,17 @@ html {
     border-radius: 50% 50% 100% 100%;
     
     }
+    .decorativepattern1{
+
+        position: absolute;
+        background-color: black;
+        width: 40px;
+        height: 40px;
+        top: 70px;
+        left: 80px;
+        transform: rotate(45deg);
+        
+        }
     .eyes{
     position: relative;
     top: 30px;
@@ -96,8 +107,8 @@ html {
         height: 30px;
         width: 30px;
         position: absolute;
-        top: 175px;
-        left: 150px;
+        top: 150px;
+        left: 95px;
         transform: scale(1,-1) rotate(0deg);
     }
     .facehairs{
